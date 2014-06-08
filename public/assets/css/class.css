@@ -1,0 +1,61 @@
+.video{
+    background-color: rgba(255,255,255, 0.7);
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+
+.news
+{
+    background-color: rgba(255, 255, 255 ,0.95);
+    border-radius: 20px;
+    color: black;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border: 1px solid black;
+
+}
+.written
+{
+    font-family: 'Fugaz One', cursive;
+
+}
+.equipe
+{
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.contact
+{
+    background-color: rgba(255, 255, 255 ,0.95);
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
+.header_buttun
+{
+    font-family: 'Aldrich', sans-serif;
+}
+
+.picture
+{
+    border-radius: 20%;
+    height: 100%;
+}
+
+.photos
+{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid black;
+}
+
+@media (min-width: 990px) {
+    .picture{
+        max-height: 245px;
+    }
+}
