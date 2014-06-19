@@ -8,7 +8,7 @@ return array(
 		'connection'  => array(
 			'dsn'        => 'mysql:host=127.0.0.1;dbname=rush',
 			'username'   => 'root',
-			'password'   => '000000',
+			'password'   => '0000',
 		),
 	),
 );
